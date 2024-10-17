@@ -26,7 +26,7 @@
     "solc": "^0.4.17",
     "truffle-hdwallet-provider": "0.0.3",
     "web3": "^1.3.6",
-    "ethereumjs-abi": "git+https://github.com/ethereumjs/ethereumjs-abi.git"
+    "ethereumjs-abi": "https://github.com/ethereumjs/ethereumjs-abi.git"
   },
   "devDependencies": {
     "electron": "^18.0.3"
