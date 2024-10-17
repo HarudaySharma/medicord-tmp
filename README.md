@@ -1,4 +1,5 @@
 # Blockchain Medical Record System
+# medicord
 
 ## Setup
 1. Download Metamask Extension from chrome
@@ -21,4 +22,3 @@ cd ethereum
 node compile.js
 node deploy.js
 ```
-# medicord
